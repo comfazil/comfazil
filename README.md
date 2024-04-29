@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Fazil Khan.
 - 👀 I’m interested in Cloud Technologies, C++ and Java Development...
 - 🌱 I’m currently in the final year of Engineering ...
-- 📫 Instagram : @comedianfazi || Twitter : @comedianfazil
+- 📫 Instagram : @comedianfazil || Twitter : @comedianfazil
 - Email : comfazil@yahoo.com
 
 <!---
