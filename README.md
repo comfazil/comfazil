@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cloud Technologies, C++ and Java Development...
 - 🌱 I’m currently in the final year of Engineering ...
 - 📫 Instagram : @comedianfazil || Twitter : @comedianfazil
-- Email : comfazil@yahoo.com
+- Email : comfazil.k@gmail.com
 
 <!---
 comfazil/comfazil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
